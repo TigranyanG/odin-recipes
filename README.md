@@ -1,0 +1,1 @@
+At the end of this project, I will have hopefully created a website that contains a home page that contains links to the recipes of different dishes. The recipe page will include a heading with the name of the dish, an image of the dish as well as unordered lists to show the ingredients and ordered lists to give step-by-step guides on how to make it.
